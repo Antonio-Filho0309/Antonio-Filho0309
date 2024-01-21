@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+
   <a href = "https://scintillating-biscotti-bbc86f.netlify.app">
     <![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-filho0309)](https://github.com/antonio-filho0309/github-readme-stats)
-</div>
+

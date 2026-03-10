@@ -10,7 +10,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bulletdev/Bulletdev/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ## Tecnologia que eu utilizo no dia a dia 🖥️
 
 <div style="display: inline-block"> </br>
